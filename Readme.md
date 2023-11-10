@@ -54,7 +54,8 @@ rtc系统/(单/多人语音房/视频房/ 多对多/1对多音视频房)
 
 # h5演示地址
 
-![image](./image/guanzhu.gif "关注聊天")![image](./image/xiaoxi.gif "消息")![image](./image/yuyinfang.gif "群组语音房")
+![image](./image/guanzhu.gif "关注聊天")![image](./image/xiaoxi.gif "消息")![image](./image/yuyinfang.gif "群组语音房")  
+![image](./image/1.jpg) ![image](./image/2.jpg) ![image](./image/3.jpg) ![image](./image/4.jpg) ![image](./image/5.jpg)
 
 | 测试账号 | 111111111 | 111111112 | 111111113 | 111111114 |
 |------|:---------:|----------:|:---------:|:---------:|
