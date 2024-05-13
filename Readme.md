@@ -44,6 +44,7 @@ rtc系统/(单/多人语音房/视频房/ 多对多/1对多音视频房)
 
 # 主要功能
 ### 完整IM聊天产品, 社交动态,短视频,影院,红包,礼物,充值,提现
+### 新增电报消息同步,抓取指定电报频道/群组消息,自动下载图片视频文件超连接,客户端同步
 ### 消息
 单聊/群聊/群组语音聊天室/礼物系统  
 
@@ -95,6 +96,12 @@ rtc系统/(单/多人语音房/视频房/ 多对多/1对多音视频房)
 <img src="./image/其他.png" width = "600" height = "600" alt="其他消息" />  
 <img src="./image/新建快速回复.png" width = "300" height = "600" alt="新建快速回复" />  
 <img src="./image/快速回复.png" width = "300" height = "600" alt="快速回复" />  
+
+## 电报频道
+### 
+<img src="./image/频道.png" width = "300" height = "600" alt="频道" />  
+<img src="./image/频道订阅.png" width = "300" height = "600" alt="频道订阅" />  
+<img src="./image/频道内容.png" width = "300" height = "600" alt="频道内容" />  
 
 ## 语音聊天室/新建/点歌
 <img src="./image/audioRoom0.png" width = "300" height = "600" alt="audioRoom0" />  
