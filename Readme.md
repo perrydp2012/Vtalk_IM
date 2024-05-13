@@ -126,6 +126,13 @@ rtc系统/(单/多人语音房/视频房/ 多对多/1对多音视频房)
 <img src="./image/android4.jpg" width = "300" height = "600" alt="android4" />  
 <img src="./image/android5.jpg" width = "300" height = "600" alt="android5" />  
 
+# pc
+<img src="./image/pc_登录.png" width = "300" height = "500" alt="android1" />  
+<img src="./image/pc.png" width = "600" height = "280" alt="android1" />  
+<img src="./image/pc_红包.png" width = "600" height = "400" alt="android1" />  
+<img src="./image/pc_markdown.png" width = "600" height = "450" alt="android1" />  
+<img src="./image/pc_礼物动画.png" width = "600" height = "480" alt="android1" />  
+<img src="./image/pc_文件.png" width = "400" height = "480" alt="android1" />  
 
 # h5 演示
 
